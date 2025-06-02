@@ -44,7 +44,6 @@ The main analysis is provided in the Jupyter Notebook:
 
 This project is submitted as part of the internship program. All files including the dataset, notebook, and this README are included in the repository.
 
-## 📌 Author
 
-**Intern Name:** [Your Name]  
-**Program:** Data Analyst Internship - Task 5
+
+
